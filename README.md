@@ -1,5 +1,4 @@
 # Salary Slip Generator
-~version1.0
 
 ###   Release Notes
 - version 1.0 (Released on 30 Apr 2020)
