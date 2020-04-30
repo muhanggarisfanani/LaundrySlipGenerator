@@ -1,7 +1,7 @@
 # Salary Slip Generator
 
 ###   Release Notes
-- version 1.0 (Released on 30 Apr 2020)
+- [version 1.0](https://github.com/muhanggarisfanani/LaundrySlipGenerator/tree/version1.0) (Released on 30 Apr 2020)
 
 ###   Credit
 Author: Muhammad Angga Risfanani
