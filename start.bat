@@ -1,0 +1,6 @@
+@ECHO OFF
+TITLE Salary Slip Generator
+ECHO Application opened...
+python src\\"main.py"
+ECHO Application closed...
+PAUSE

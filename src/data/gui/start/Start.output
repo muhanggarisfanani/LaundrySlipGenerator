@@ -1,0 +1,19 @@
+Traceback (most recent call last):
+  File "D:/Kuliah/SEM-4/Projek Auto Absence Laundry KAM ITB/data/gui/start/Start.py", line 236, in <module>
+    vp_start_gui()
+  File "D:/Kuliah/SEM-4/Projek Auto Absence Laundry KAM ITB/data/gui/start/Start.py", line 35, in vp_start_gui
+    top = BeginWindow (root)
+  File "D:/Kuliah/SEM-4/Projek Auto Absence Laundry KAM ITB/data/gui/start/Start.py", line 110, in __init__
+    _img0 = ImageTk.PhotoImage(file=photo_location)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\PIL\ImageTk.py", line 89, in __init__
+    image = _get_image_from_kw(kw)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\PIL\ImageTk.py", line 58, in _get_image_from_kw
+    return Image.open(source)
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\PIL\Image.py", line 2809, in open
+    fp = builtins.open(filename, "rb")
+PermissionError: [Errno 13] Permission denied: 'D:/Kuliah/SEM-4/Projek Auto Absence Laundry KAM ITB/data/gui/start\\.'
+Exception ignored in: <function PhotoImage.__del__ at 0x033814A8>
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Python38-32\lib\site-packages\PIL\ImageTk.py", line 118, in __del__
+    name = self.__photo.name
+AttributeError: 'PhotoImage' object has no attribute '_PhotoImage__photo'

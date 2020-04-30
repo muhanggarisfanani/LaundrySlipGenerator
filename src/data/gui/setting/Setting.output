@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "D:/Kuliah/SEM-4/Projek Auto Absence Laundry KAM ITB/data/gui/setting/Setting.py", line 126, in <module>
+    vp_start_gui()
+  File "D:/Kuliah/SEM-4/Projek Auto Absence Laundry KAM ITB/data/gui/setting/Setting.py", line 32, in vp_start_gui
+    top = SettingWindow (root)
+  File "D:/Kuliah/SEM-4/Projek Auto Absence Laundry KAM ITB/data/gui/setting/Setting.py", line 108, in __init__
+    _img0 = tk.PhotoImage(file=photo_location)
+  File "C:\Program Files (x86)\Python38-32\lib\tkinter\__init__.py", line 4061, in __init__
+    Image.__init__(self, 'photo', name, cnf, master, **kw)
+  File "C:\Program Files (x86)\Python38-32\lib\tkinter\__init__.py", line 4006, in __init__
+    self.tk.call(('image', 'create', imgtype, name,) + options)
+_tkinter.TclError: couldn't open "D:/Kuliah/SEM-4/Projek Auto Absence Laundry KAM ITB/data/gui/setting\.": permission denied
