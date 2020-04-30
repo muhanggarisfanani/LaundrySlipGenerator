@@ -1,4 +1,5 @@
 # Salary Slip Generator
+[Download](https://github.com/muhanggarisfanani/LaundrySlipGenerator/archive/version1.0.zip)
 ~version1.0
 
 ###   Instalasi program
